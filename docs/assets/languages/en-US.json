@@ -1,0 +1,180 @@
+{
+   "menu": {
+     "frontpage": "Página Principal",
+     "experience": "Experiencia",
+     "studies": "Studies",
+     "languages_tools": "Idiomas y Herramientas",
+     "proyects": "Proyectos",
+     "contact": "Contacto"
+   },
+   "frontpage": {
+     "profile_alt": "profile",
+     "name": "Full Name",
+     "role": "Ingeniería Informática",
+     "about_me": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, cum nobis quibusdam soluta facere omnis, nulla ea voluptatem hic quam sint minus in maiores, veniam iure. Sapiente recusandae error quo\nLorem ipsum dolor sit amet consectetur adipisicing elit. Quo temporibus quos optio earum? Maiores aperiam nam ratione labore numquam assumenda unde, amet obcaecati temporibus, dolorem architecto debitis natus eligendi quibusdam?",
+     "linkedin": "https://www.linkedin.com/",
+     "linkedin_alt": "Linkedin",
+     "linkedin_img": "assets/icons/linkedin.svg",
+     "linkedin_color": "rgb(14, 118, 168)",
+     "github": "https://www.github.com/",
+     "github_alt": "Github",
+     "github_img": "assets/icons/github.svg",
+     "github_color": "rgb(23, 21, 21)",
+     "email": "mailto:correo@correo.com",
+     "email_alt": "Email",
+     "email_img": "assets/icons/email.svg",
+     "email_color": "rgb(199, 22, 16)"
+   },
+
+   "experience_section": {
+     "title_experience": "Experiencia",
+     "experiences": [
+       {
+         "title": "Find your way",
+         "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, ipsum sapiente aspernatur.",
+         "more_info": "Más información",
+         "color": "rgb(100, 100, 0)",
+         "date": "Enero 2020 - Enero 2021"
+       },
+       {
+         "title": "Find your way2",
+         "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, ipsum sapiente aspernatur.",
+         "more_info": "Más información",
+         "color": "rgb(100, 100, 50)",
+         "date": "Enero 2020 - Enero 2021"
+       },
+       {
+         "title": "Find your way3",
+         "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, ipsum sapiente aspernatur.",
+         "more_info": "Más información",
+         "color": "rgb(100, 100, 100)",
+         "date": "Enero 2020 - Enero 2021"
+       },
+       {
+         "title": "Find your way3",
+         "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, ipsum sapiente aspernatur.",
+         "more_info": "Más información",
+         "color": "rgb(100, 100, 150)",
+         "date": "Enero 2020 - Enero 2021"
+       }
+     ],
+     "title_studies": "Estudios",
+     "studies": [
+       {
+         "title": "Find your way",
+         "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, ipsum sapiente aspernatur.",
+         "more_info": "Más información",
+         "color": "rgb(100, 200, 0)",
+         "date": "Enero 2020 - Enero 2021"
+       },
+       {
+         "title": "Find your way",
+         "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, ipsum sapiente aspernatur.",
+         "more_info": "Más información",
+         "color": "rgb(0, 0, 250)",
+         "date": "Enero 2020 - Enero 2021"
+       }
+     ]
+   },
+   "info_section":  {
+     "title_languages": "Languages",
+     "languages": [
+       {
+         "name": "Inglés",
+         "stars": 4
+       },
+       {
+         "name": "Español",
+         "stars": 5
+       }
+     ],
+     "title_tools": "Tools",
+     "tools": [
+       {
+         "name": "Herramienta1",
+         "stars": 4
+       },
+       {
+         "name": "Herramienta2",
+         "stars": 1
+       },
+       {
+         "name": "Herramienta3",
+         "stars": 5
+       },
+       {
+         "name": "Herramienta4",
+         "stars": 2
+       }
+     ]
+   },
+   "proyect_section": {
+     "proyects": [
+       {
+         "id": "project-1",
+         "identifier": "project-1",
+         "title": "Title 1",
+         "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vehicula bibendum lacus ut dignissim. Proin metus lacus, blandit vehicula turpis sagittis, blandit pellentesque augue. Aenean eget aliquet urna. Phasellus quis mauris vitae dolor finibus feugiat. Donec eleifend, enim vitae suscipit posuere, diam quam iaculis sapien, vel molestie justo elit at leo. Etiam pulvinar, libero ac dictum tempus, magna eros elementum libero, a aliquet lorem magna eu sem. In in egestas diam. Nunc rhoncus tristique turpis, vel mattis augue suscipit sit amet. Nullam scelerisque mi suscipit egestas malesuada. Donec suscipit mollis lectus, sed lacinia tortor porta sed. Etiam et velit nulla. Proin pellentesque elit accumsan, aliquet nunc vel, consectetur nulla. Maecenas vulputate sollicitudin elit, non pretium elit aliquet vitae. Suspendisse et interdum risus, nec laoreet est.",
+         "img_path": "assets/images/example.webp",
+         "img_alt": "Imagen del proyecto",
+         "btn": "Más información"
+       },
+       {
+         "id": "project-2",
+         "identifier": "project-2",
+         "title": "Title 2",
+         "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vehicula bibendum lacus ut dignissim. Proin metus lacus, blandit vehicula turpis sagittis, blandit pellentesque augue. Aenean eget aliquet urna. Phasellus quis mauris vitae dolor finibus feugiat. Donec eleifend, enim vitae suscipit posuere, diam quam iaculis sapien, vel molestie justo elit at leo. Etiam pulvinar, libero ac dictum tempus, magna eros elementum libero, a aliquet lorem magna eu sem. In in egestas diam. Nunc rhoncus tristique turpis, vel mattis augue suscipit sit amet. Nullam scelerisque mi suscipit egestas malesuada. Donec suscipit mollis lectus, sed lacinia tortor porta sed. Etiam et velit nulla. Proin pellentesque elit accumsan, aliquet nunc vel, consectetur nulla. Maecenas vulputate sollicitudin elit, non pretium elit aliquet vitae. Suspendisse et interdum risus, nec laoreet est.",
+         "img_path": "assets/images/example.webp",
+         "img_alt": "Imagen del proyecto",
+         "btn": "Más información"
+       },
+       {
+         "id": "project-3",
+         "identifier": "project-3",
+         "title": "Title 3",
+         "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vehicula bibendum lacus ut dignissim. Proin metus lacus, blandit vehicula turpis sagittis, blandit pellentesque augue. Aenean eget aliquet urna. Phasellus quis mauris vitae dolor finibus feugiat. Donec eleifend, enim vitae suscipit posuere, diam quam iaculis sapien, vel molestie justo elit at leo. Etiam pulvinar, libero ac dictum tempus, magna eros elementum libero, a aliquet lorem magna eu sem. In in egestas diam. Nunc rhoncus tristique turpis, vel mattis augue suscipit sit amet. Nullam scelerisque mi suscipit egestas malesuada. Donec suscipit mollis lectus, sed lacinia tortor porta sed. Etiam et velit nulla. Proin pellentesque elit accumsan, aliquet nunc vel, consectetur nulla. Maecenas vulputate sollicitudin elit, non pretium elit aliquet vitae. Suspendisse et interdum risus, nec laoreet est.",
+         "img_path": "assets/images/example.webp",
+         "img_alt": "Imagen del proyecto",
+         "btn": "Más información"
+       },
+       {
+         "id": "project-4",
+         "identifier": "project-4",
+         "title": "Title 4",
+         "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vehicula bibendum lacus ut dignissim. Proin metus lacus, blandit vehicula turpis sagittis, blandit pellentesque augue. Aenean eget aliquet urna. Phasellus quis mauris vitae dolor finibus feugiat. Donec eleifend, enim vitae suscipit posuere, diam quam iaculis sapien, vel molestie justo elit at leo. Etiam pulvinar, libero ac dictum tempus, magna eros elementum libero, a aliquet lorem magna eu sem. In in egestas diam. Nunc rhoncus tristique turpis, vel mattis augue suscipit sit amet. Nullam scelerisque mi suscipit egestas malesuada. Donec suscipit mollis lectus, sed lacinia tortor porta sed. Etiam et velit nulla. Proin pellentesque elit accumsan, aliquet nunc vel, consectetur nulla. Maecenas vulputate sollicitudin elit, non pretium elit aliquet vitae. Suspendisse et interdum risus, nec laoreet est.",
+         "img_path": "assets/images/example.webp",
+         "img_alt": "Imagen del proyecto",
+         "btn": "Más información"
+       }
+     ],
+     "button_close": "Close"
+   },
+   "contact_section": {
+     "title": "Contact",
+     "name_placeholder": "Tu nombre",
+     "mail_placeholder": "Tu correo",
+     "text_placeholder": "Escribe aquí tu texto",
+     "send_button": "Enviar"
+   },
+  "footer":{
+    "linkedin": "https://www.linkedin.com/",
+    "linkedin_alt": "Linkedin",
+    "linkedin_img": "assets/icons/linkedin.svg",
+    "linkedin_color": "rgb(14, 118, 168)",
+    "github": "https://www.github.com/",
+    "github_alt": "Github",
+    "github_img": "assets/icons/github.svg",
+    "github_color": "rgb(23, 21, 21)",
+    "email": "mailto:correo@correo.com",
+    "email_alt": "Email",
+    "email_img": "assets/icons/email.svg",
+    "email_color": "rgb(199, 22, 16)",
+    "creator": "Created by:",
+    "creator_Alba": "akua21",
+    "creator_Alba_Link": "https://www.github.com/akua21",
+    "creator_Ale": "Pheithar",
+    "creator_Ale_Link": "https://www.github.com/Pheithar",
+    "creator_Alex": "axpm",
+    "creator_Alex_Link": "https://www.github.com/axpm"
+  }
+}

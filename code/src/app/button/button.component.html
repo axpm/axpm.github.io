@@ -7,6 +7,12 @@
     {{text}}
   </div>
 
+  <div *ngIf="type=='elevate_w_url'" class="button__elevate p-font">
+    <a href={{link}} target="_blank" style="text-decoration: none;" rel="noopener noreferrer">
+      {{text}}
+    </a>
+  </div>
+
   <div *ngIf="type=='icon'" class="button__icon" style=--color:{{color}};>
     <div class="button__icon-tooltip">{{text}}</div>
     <a href={{link}} target="_blank">
@@ -17,6 +23,11 @@
   </div>
 
   <div *ngIf="type=='explore'" class="button__explore p-font">
+    {{text}} <span>&rarr;</span>
+  </div>
+
+  <div *ngIf="type=='explore_w_link'" class="button__explore p-font">
+    <a href="url">link text</a>
     {{text}} <span>&rarr;</span>
   </div>
 

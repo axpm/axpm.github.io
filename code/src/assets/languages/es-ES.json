@@ -8,9 +8,9 @@
    },
    "frontpage": {
      "profile_alt": "profile",
-     "name": "Nombre Completo",
-     "role": "Ingeniería Informática",
-     "about_me": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, cum nobis quibusdam soluta facere omnis, nulla ea voluptatem hic quam sint minus in maiores, veniam iure. Sapiente recusandae error quo\nLorem ipsum dolor sit amet consectetur adipisicing elit. Quo temporibus quos optio earum? Maiores aperiam nam ratione labore numquam assumenda unde, amet obcaecati temporibus, dolorem architecto debitis natus eligendi quibusdam?",
+     "name": "Alejandro Prieto",
+     "role": "Data Engineer",
+     "about_me": "Licenciado en Ingeniería Informática por la Universidad Carlos III de Madrid. Interesado en múltiples ámbitos de la informática como los Datos, IA y las Realidades Mixtas.\n Trabajando desde Septiembre de 2021 como Ingeniero de Datos trabajando con diferentes tecnologías cloud como AWS y Google Cloud.\n ",
      "linkedin": "https://www.linkedin.com/",
      "linkedin_alt": "Linkedin",
      "linkedin_img": "assets/icons/linkedin.svg",
@@ -29,32 +29,19 @@
      "title_experience": "Experiencia",
      "experiences": [
        {
-         "title": "Find your way",
-         "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, ipsum sapiente aspernatur.",
+         "title": "Mática Partners - Data Engineer",
+         "content": "Data Engineer. Trabajando en diferentes proyectos para clientes de diferentes sectores, como la educación o ecommerce. También he trabajado con diferentes tecnologías cloud como son AWS y Google Cloud.",
          "more_info": "Más información",
+         "more_info_link": "https://www.matica.ai",
          "color": "rgb(100, 100, 0)",
-         "date": "Enero 2020 - Enero 2021"
+         "date": "Septiembre 2021 - Actualmente"
        },
        {
-         "title": "Find your way2",
-         "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, ipsum sapiente aspernatur.",
+         "title": "Everis SLU (NTT DATA) - Prácticas como Desarrollador de Salesforce",
+         "content": "Realicé mis prácticas en la empresa Everis, que actualmente es NTT DATA, y se ",
          "more_info": "Más información",
          "color": "rgb(100, 100, 50)",
-         "date": "Enero 2020 - Enero 2021"
-       },
-       {
-         "title": "Find your way3",
-         "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, ipsum sapiente aspernatur.",
-         "more_info": "Más información",
-         "color": "rgb(100, 100, 100)",
-         "date": "Enero 2020 - Enero 2021"
-       },
-       {
-         "title": "Find your way3",
-         "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, ipsum sapiente aspernatur.",
-         "more_info": "Más información",
-         "color": "rgb(100, 100, 150)",
-         "date": "Enero 2020 - Enero 2021"
+         "date": "Marzo 2020 - Junio 2020"
        }
      ],
      "title_studies": "Estudios",
